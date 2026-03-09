@@ -48,9 +48,11 @@ Model graph:
 
 Calculation: 
 Open circuit characteristics
+
 <img width="663" height="729" alt="Screenshot 2026-03-09 214329" src="https://github.com/user-attachments/assets/fddb9f95-2b63-41bf-8bca-df02e5c84a61" />
 
 Load Characteristics:
+
 <img width="744" height="697" alt="Screenshot 2026-03-09 214359" src="https://github.com/user-attachments/assets/2c911706-ab92-4f61-9bf0-871d88c77d7d" />
 
 Result:
